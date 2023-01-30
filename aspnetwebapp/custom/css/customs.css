@@ -1,0 +1,20 @@
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+        color: #ffd800;
+    }
+
+#footer1 {
+    background: #595959;
+}
+
+#footer2 {
+    background: #000000;
+}
+
+div.dataTables_filter, div.dataTables_length {
+    padding: 5px;
+}
